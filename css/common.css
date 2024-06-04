@@ -1,0 +1,16 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255)), url("/img/background_photo.png");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 100% 40%;
+  height: 100vh;
+  /* position: absolute; */
+}/*# sourceMappingURL=common.css.map */
